@@ -104,4 +104,4 @@ Pretendard Variable 파일은 `assets/fonts/`에 있다.
 - hover/transition이 기능과 무관하게 화려하기만 하지 않은가
 - 폰트가 Pretendard로 통일되어 있는가
 
-하나라도 걸리면 수정한 뒤 결과물을 전달한다.
+하나라도 걸리면 금지 항목을 확인하고 수정한 뒤 결과물을 전달한다.
