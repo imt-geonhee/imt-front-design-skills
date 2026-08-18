@@ -1,6 +1,6 @@
-# Clean Frontend Design (IMTSOFT)
+# Clean Frontend Skills
 
-아이엠티소프트(IMTSOFT) 사내 프론트엔드 디자인 가이드 스킬입니다. LLM이 생성한 UI 특유의 "AI티"(특정 산세리프 폰트, 불필요한 그라데이션, 과도한 그림자, 이모지 남발, 의미 없는 애니메이션 등)를 제거하고, POS·키오스크·KDS/DID·테이블오더·QR오더·MDM·ESL 콘솔 등 사내 제품에 맞는 절제되고 실무적인 UI를 만들기 위해 사용합니다.
+아이엠티소프트(IMTSOFT) 사내 프론트엔드 & 디자인 가이드 스킬. LLM이 생성한 UI 특유의 "AI티"(특정 산세리프 폰트, 불필요한 그라데이션, 과도한 그림자, 이모지 남발, 의미 없는 애니메이션 등)를 제거하고, POS·키오스크·KDS/DID·테이블오더·QR오더·MDM·ESL 콘솔 등 사내 제품에 맞는 절제되고 실무적인 UI를 만들기 위해 사용합니다.
 
 ## 언제 트리거되는가
 
@@ -20,7 +20,7 @@ clean-frontend-design/
         └── pretendard.css            # @font-face 정의
 ```
 
-## 핵심 금지 항목
+## 금지 항목
 
 - **폰트**: Inter, Poppins, Manrope 등 AI 생성 UI 클리셰 폰트 금지 → Pretendard로 통일
 - **그라데이션**: 정보 전달 목적이 없는 장식용 그라데이션 금지, 단색 기본
